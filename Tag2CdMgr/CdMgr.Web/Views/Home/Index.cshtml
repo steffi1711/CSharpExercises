@@ -1,0 +1,27 @@
+﻿@model CdMgr.Web.ViewModels.CdOverviewViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form asp-action="Index">
+    <label asp-for="FilterText">Titel filtern:</label>
+    <input type="text" asp-for="FilterText" />
+    <input type="submit" value="Filtern" />
+</form>
+
+<table>
+    @foreach(var cd in Model.Cds)
+    {
+        <tr>
+            <td>
+                @cd.Title
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@cd.Id">Bearbeiten</a>
+            </td>
+        </tr>
+    }
+
+</table>
+

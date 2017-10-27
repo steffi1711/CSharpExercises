@@ -1,0 +1,15 @@
+﻿@model CdMgr.Web.ViewModels.CompanyOverviewViewModel
+
+<table>
+    @foreach (var company in Model.Companies)
+    {
+        <tr>
+            <td>
+                @company.CompanyName
+            </td>
+        </tr>
+    }
+    <tr>
+        <td><a asp-action="Add">Neue Company anlegen</a></td>
+    </tr>
+</table>

@@ -1,0 +1,34 @@
+﻿@model CdMgr.Web.ViewModels.EditCdViewModel
+
+<h2>Cd Titel ändern:</h2>
+<form asp-action="Edit">
+    <div class="form-group">
+        <label asp-for="Cd.Title"></label>
+        <input type="text" asp-for="Cd.Title" class="form-control" />
+        <span asp-validation-for="Cd.Title"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Cd.Artist"></label>
+        <input type="text" asp-for="Cd.Artist" class="form-control" />
+        <span asp-validation-for="Cd.Artist"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Cd.Country"></label>
+        <input type="text" asp-for="Cd.Country" class="form-control" />
+        <span asp-validation-for="Cd.Country"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Cd.Price"></label>
+        <input type="text" asp-for="Cd.Price" class="form-control" />
+        <span asp-validation-for="Cd.Price"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Cd.Year"></label>
+        <input type="text" asp-for="Cd.Year" class="form-control" />
+        <span asp-validation-for="Cd.Year"></span>
+        6
+    </div>
+    <input asp-for="Cd.Id" hidden />
+    @Html.HiddenFor(m => m.Cd.Timestamp)
+    <input type="submit" value="Speichern" />
+</form>
