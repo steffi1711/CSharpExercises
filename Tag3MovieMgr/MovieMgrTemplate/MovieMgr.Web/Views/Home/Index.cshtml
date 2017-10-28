@@ -1,0 +1,44 @@
+﻿@model MovieMgr.Web.ViewModels.CategoryListViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+<form asp-action="Index">
+    <div class="container">
+        <div class="form-group">
+            <label asp-for="NewCat.CategoryName"></label>
+            <input asp-for="NewCat.CategoryName" class="form-control" />
+            <span asp-validation-for="NewCat.CategoryName"></span>
+        </div>
+        <input type="submit" value="Neue Kategorie speichern" class="btn btn-primary" />
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(m => m.Categories[0].CategoryName)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cat in Model.Categories)
+        {
+            <tr>
+                <td>
+                    @cat.CategoryName
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-catId="@cat.Id">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@section Scripts {
+    <script></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}

@@ -1,0 +1,34 @@
+﻿@model MovieMgr.Web.ViewModels.CreateMovieViewModel
+
+<form asp-action="CreateMovie" asp-route-catId="@Model.NewMovie.Category_Id">
+    <div class="container">
+        <div class="form-group">
+            <label asp-for="NewMovie.Category_Id"></label>
+            <select class="form-control" asp-for="NewMovie.Category_Id" asp-items="Model.Categories"></select>
+            <span asp-validation-for="NewMovie.Category_Id"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="NewMovie.Title"></label>
+            <input class="form-control" asp-for="NewMovie.Title" />
+            <span asp-validation-for="NewMovie.Title"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="NewMovie.Duration"></label>
+            <input class="form-control" asp-for="NewMovie.Duration" />
+            <span asp-validation-for="NewMovie.Duration"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="NewMovie.Year"></label>
+            <input class="form-control" asp-for="NewMovie.Year" />
+            <span asp-validation-for="NewMovie.Year"></span>
+        </div>
+        <input type="submit" value="Film anlegen" class="btn btn-primary" />
+    </div>
+</form>
+
+
+@section Scripts {
+    <script></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}
