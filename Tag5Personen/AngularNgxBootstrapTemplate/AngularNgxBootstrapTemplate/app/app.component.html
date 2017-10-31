@@ -1,0 +1,26 @@
+<h1>Personen Manager</h1>
+<h2>Enter</h2>
+
+<label>firstname</label>
+<input type="text" [(ngModel)]="newPerson.firstname" />
+<label>lastname</label>
+<input type="text" [(ngModel)]="newPerson.lastname" />
+<button (click)=addPerson()>new</button>
+
+<h2>Search</h2>
+<div>
+    <label>Filter Lastname</label>
+    <input type="text" [(ngModel)]="filterName" />
+</div>
+
+
+<table>
+    <template ngFor let-person [ngForOf]="persons">
+        <tr (click)="selectPerson(person)" [style.backgroundColor]="selectedPerson?.country==person.country?'grey':''">
+            <button (click)=removePerson(person)>A</button>
+            <td *ngIf="filterName == undefined || person.lastname.indexOf(filterName)==0" >
+                {{person.id}} {{person.firstname}} {{person.lastname}} {{person.country}}
+            </td>
+        </tr>
+    </template>
+</table>
