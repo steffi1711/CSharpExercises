@@ -1,0 +1,9 @@
+<h1>Vokabel-Trainer</h1>
+
+<label>Gesamt: {{wordpairs.length}}</label><br>
+<label>Richtig: {{counterCorr}}</label><br>
+<label>Falsch: {{counterError}}</label>
+
+<div *ngFor="let word of wordpairs">
+    <word-pair [wordpair]="word" (correct)="countCorrect($event).html('&#10003;')"></word-pair>
+</div>

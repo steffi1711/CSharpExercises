@@ -1,0 +1,5 @@
+<label>{{wordpair.leftWord}}</label>
+<input [(ngModel)]="inputValue" [style.backgroundColor]="wordIsCorrect?'green': count > 0? 'red':''" [disabled]="wordIsCorrect"/>
+<button (click)="check()" [disabled]="wordIsCorrect" class="glyphicon glyphicon-check">Check</button>
+<button (click)="inputValue=_wordpair.rightWord">Aufgeben</button>
+<label>{{count==0?"":count}}</label>
