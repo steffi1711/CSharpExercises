@@ -1,0 +1,2998 @@
+{
+  "hotelreviews": [
+    {
+      "id": 1,
+      "points": 2,
+      "hotel_id": 33,
+      "comment": "-"
+    },
+    {
+      "id": 2,
+      "points": 10,
+      "hotel_id": 33,
+      "comment": "-"
+    },
+    {
+      "id": 3,
+      "points": 10,
+      "hotel_id": 22,
+      "comment": "-"
+    },
+    {
+      "id": 4,
+      "points": 1,
+      "hotel_id": 35,
+      "comment": "-"
+    },
+    {
+      "id": 5,
+      "points": 4,
+      "hotel_id": 10,
+      "comment": "-"
+    },
+    {
+      "id": 6,
+      "points": 9,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 7,
+      "points": 2,
+      "hotel_id": 35,
+      "comment": "-"
+    },
+    {
+      "id": 8,
+      "points": 2,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 9,
+      "points": 7,
+      "hotel_id": 1,
+      "comment": "-"
+    },
+    {
+      "id": 10,
+      "points": 5,
+      "hotel_id": 35,
+      "comment": "-"
+    },
+    {
+      "id": 11,
+      "points": 4,
+      "hotel_id": 25,
+      "comment": "-"
+    },
+    {
+      "id": 12,
+      "points": 1,
+      "hotel_id": 12,
+      "comment": "-"
+    },
+    {
+      "id": 13,
+      "points": 3,
+      "hotel_id": 12,
+      "comment": "-"
+    },
+    {
+      "id": 14,
+      "points": 7,
+      "hotel_id": 10,
+      "comment": "-"
+    },
+    {
+      "id": 15,
+      "points": 1,
+      "hotel_id": 22,
+      "comment": "-"
+    },
+    {
+      "id": 16,
+      "points": 1,
+      "hotel_id": 1,
+      "comment": "-"
+    },
+    {
+      "id": 17,
+      "points": 5,
+      "hotel_id": 32,
+      "comment": "-"
+    },
+    {
+      "id": 18,
+      "points": 4,
+      "hotel_id": 16,
+      "comment": "-"
+    },
+    {
+      "id": 19,
+      "points": 3,
+      "hotel_id": 38,
+      "comment": "-"
+    },
+    {
+      "id": 20,
+      "points": 6,
+      "hotel_id": 38,
+      "comment": "-"
+    },
+    {
+      "id": 21,
+      "points": 9,
+      "hotel_id": 12,
+      "comment": "-"
+    },
+    {
+      "id": 22,
+      "points": 5,
+      "hotel_id": 3,
+      "comment": "-"
+    },
+    {
+      "id": 23,
+      "points": 10,
+      "hotel_id": 39,
+      "comment": "-"
+    },
+    {
+      "id": 24,
+      "points": 5,
+      "hotel_id": 15,
+      "comment": "-"
+    },
+    {
+      "id": 25,
+      "points": 4,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 26,
+      "points": 1,
+      "hotel_id": 42,
+      "comment": "-"
+    },
+    {
+      "id": 27,
+      "points": 9,
+      "hotel_id": 38,
+      "comment": "-"
+    },
+    {
+      "id": 28,
+      "points": 5,
+      "hotel_id": 13,
+      "comment": "-"
+    },
+    {
+      "id": 29,
+      "points": 9,
+      "hotel_id": 1,
+      "comment": "-"
+    },
+    {
+      "id": 30,
+      "points": 6,
+      "hotel_id": 16,
+      "comment": "-"
+    },
+    {
+      "id": 31,
+      "points": 4,
+      "hotel_id": 32,
+      "comment": "-"
+    },
+    {
+      "id": 32,
+      "points": 8,
+      "hotel_id": 35,
+      "comment": "-"
+    },
+    {
+      "id": 33,
+      "points": 8,
+      "hotel_id": 2,
+      "comment": "-"
+    },
+    {
+      "id": 34,
+      "points": 8,
+      "hotel_id": 2,
+      "comment": "-"
+    },
+    {
+      "id": 35,
+      "points": 4,
+      "hotel_id": 32,
+      "comment": "-"
+    },
+    {
+      "id": 36,
+      "points": 5,
+      "hotel_id": 6,
+      "comment": "-"
+    },
+    {
+      "id": 37,
+      "points": 7,
+      "hotel_id": 27,
+      "comment": "-"
+    },
+    {
+      "id": 38,
+      "points": 6,
+      "hotel_id": 6,
+      "comment": "-"
+    },
+    {
+      "id": 39,
+      "points": 6,
+      "hotel_id": 40,
+      "comment": "-"
+    },
+    {
+      "id": 40,
+      "points": 7,
+      "hotel_id": 20,
+      "comment": "-"
+    },
+    {
+      "id": 41,
+      "points": 1,
+      "hotel_id": 32,
+      "comment": "-"
+    },
+    {
+      "id": 42,
+      "points": 8,
+      "hotel_id": 13,
+      "comment": "-"
+    },
+    {
+      "id": 43,
+      "points": 2,
+      "hotel_id": 12,
+      "comment": "-"
+    },
+    {
+      "id": 44,
+      "points": 5,
+      "hotel_id": 42,
+      "comment": "-"
+    },
+    {
+      "id": 45,
+      "points": 8,
+      "hotel_id": 23,
+      "comment": "-"
+    },
+    {
+      "id": 46,
+      "points": 6,
+      "hotel_id": 37,
+      "comment": "-"
+    },
+    {
+      "id": 47,
+      "points": 7,
+      "hotel_id": 22,
+      "comment": "-"
+    },
+    {
+      "id": 48,
+      "points": 2,
+      "hotel_id": 13,
+      "comment": "-"
+    },
+    {
+      "id": 49,
+      "points": 10,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 50,
+      "points": 8,
+      "hotel_id": 9,
+      "comment": "-"
+    },
+    {
+      "id": 51,
+      "points": 4,
+      "hotel_id": 13,
+      "comment": "-"
+    },
+    {
+      "id": 52,
+      "points": 2,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 53,
+      "points": 2,
+      "hotel_id": 6,
+      "comment": "-"
+    },
+    {
+      "id": 54,
+      "points": 2,
+      "hotel_id": 40,
+      "comment": "-"
+    },
+    {
+      "id": 55,
+      "points": 6,
+      "hotel_id": 35,
+      "comment": "-"
+    },
+    {
+      "id": 56,
+      "points": 3,
+      "hotel_id": 9,
+      "comment": "-"
+    },
+    {
+      "id": 57,
+      "points": 2,
+      "hotel_id": 38,
+      "comment": "-"
+    },
+    {
+      "id": 58,
+      "points": 3,
+      "hotel_id": 1,
+      "comment": "-"
+    },
+    {
+      "id": 59,
+      "points": 9,
+      "hotel_id": 31,
+      "comment": "-"
+    },
+    {
+      "id": 60,
+      "points": 8,
+      "hotel_id": 22,
+      "comment": "-"
+    },
+    {
+      "id": 61,
+      "points": 3,
+      "hotel_id": 35,
+      "comment": "-"
+    },
+    {
+      "id": 62,
+      "points": 1,
+      "hotel_id": 15,
+      "comment": "-"
+    },
+    {
+      "id": 63,
+      "points": 10,
+      "hotel_id": 39,
+      "comment": "-"
+    },
+    {
+      "id": 64,
+      "points": 7,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 65,
+      "points": 10,
+      "hotel_id": 7,
+      "comment": "-"
+    },
+    {
+      "id": 66,
+      "points": 1,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 67,
+      "points": 3,
+      "hotel_id": 42,
+      "comment": "-"
+    },
+    {
+      "id": 68,
+      "points": 5,
+      "hotel_id": 12,
+      "comment": "-"
+    },
+    {
+      "id": 69,
+      "points": 8,
+      "hotel_id": 11,
+      "comment": "-"
+    },
+    {
+      "id": 70,
+      "points": 5,
+      "hotel_id": 7,
+      "comment": "-"
+    },
+    {
+      "id": 71,
+      "points": 5,
+      "hotel_id": 19,
+      "comment": "-"
+    },
+    {
+      "id": 72,
+      "points": 10,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 73,
+      "points": 8,
+      "hotel_id": 32,
+      "comment": "-"
+    },
+    {
+      "id": 74,
+      "points": 6,
+      "hotel_id": 16,
+      "comment": "-"
+    },
+    {
+      "id": 75,
+      "points": 10,
+      "hotel_id": 26,
+      "comment": "-"
+    },
+    {
+      "id": 76,
+      "points": 5,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 77,
+      "points": 2,
+      "hotel_id": 14,
+      "comment": "-"
+    },
+    {
+      "id": 78,
+      "points": 4,
+      "hotel_id": 5,
+      "comment": "-"
+    },
+    {
+      "id": 79,
+      "points": 7,
+      "hotel_id": 30,
+      "comment": "-"
+    },
+    {
+      "id": 80,
+      "points": 5,
+      "hotel_id": 30,
+      "comment": "-"
+    },
+    {
+      "id": 81,
+      "points": 10,
+      "hotel_id": 28,
+      "comment": "-"
+    },
+    {
+      "id": 82,
+      "points": 3,
+      "hotel_id": 25,
+      "comment": "-"
+    },
+    {
+      "id": 83,
+      "points": 8,
+      "hotel_id": 38,
+      "comment": "-"
+    },
+    {
+      "id": 84,
+      "points": 5,
+      "hotel_id": 21,
+      "comment": "-"
+    },
+    {
+      "id": 85,
+      "points": 9,
+      "hotel_id": 31,
+      "comment": "-"
+    },
+    {
+      "id": 86,
+      "points": 8,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 87,
+      "points": 9,
+      "hotel_id": 14,
+      "comment": "-"
+    },
+    {
+      "id": 88,
+      "points": 8,
+      "hotel_id": 13,
+      "comment": "-"
+    },
+    {
+      "id": 89,
+      "points": 9,
+      "hotel_id": 15,
+      "comment": "-"
+    },
+    {
+      "id": 90,
+      "points": 3,
+      "hotel_id": 32,
+      "comment": "-"
+    },
+    {
+      "id": 91,
+      "points": 7,
+      "hotel_id": 42,
+      "comment": "-"
+    },
+    {
+      "id": 92,
+      "points": 3,
+      "hotel_id": 8,
+      "comment": "-"
+    },
+    {
+      "id": 93,
+      "points": 3,
+      "hotel_id": 39,
+      "comment": "-"
+    },
+    {
+      "id": 94,
+      "points": 9,
+      "hotel_id": 24,
+      "comment": "-"
+    },
+    {
+      "id": 95,
+      "points": 10,
+      "hotel_id": 31,
+      "comment": "-"
+    },
+    {
+      "id": 96,
+      "points": 3,
+      "hotel_id": 20,
+      "comment": "-"
+    },
+    {
+      "id": 97,
+      "points": 5,
+      "hotel_id": 26,
+      "comment": "-"
+    },
+    {
+      "id": 98,
+      "points": 6,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 99,
+      "points": 6,
+      "hotel_id": 7,
+      "comment": "-"
+    },
+    {
+      "id": 100,
+      "points": 7,
+      "hotel_id": 14,
+      "comment": "-"
+    },
+    {
+      "id": 101,
+      "points": 10,
+      "hotel_id": 32,
+      "comment": "-"
+    },
+    {
+      "id": 102,
+      "points": 6,
+      "hotel_id": 27,
+      "comment": "-"
+    },
+    {
+      "id": 103,
+      "points": 10,
+      "hotel_id": 18,
+      "comment": "-"
+    },
+    {
+      "id": 104,
+      "points": 3,
+      "hotel_id": 16,
+      "comment": "-"
+    },
+    {
+      "id": 105,
+      "points": 4,
+      "hotel_id": 12,
+      "comment": "-"
+    },
+    {
+      "id": 106,
+      "points": 1,
+      "hotel_id": 23,
+      "comment": "-"
+    },
+    {
+      "id": 107,
+      "points": 2,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 108,
+      "points": 1,
+      "hotel_id": 25,
+      "comment": "-"
+    },
+    {
+      "id": 109,
+      "points": 8,
+      "hotel_id": 13,
+      "comment": "-"
+    },
+    {
+      "id": 110,
+      "points": 1,
+      "hotel_id": 19,
+      "comment": "-"
+    },
+    {
+      "id": 111,
+      "points": 10,
+      "hotel_id": 33,
+      "comment": "-"
+    },
+    {
+      "id": 112,
+      "points": 4,
+      "hotel_id": 25,
+      "comment": "-"
+    },
+    {
+      "id": 113,
+      "points": 1,
+      "hotel_id": 24,
+      "comment": "-"
+    },
+    {
+      "id": 114,
+      "points": 9,
+      "hotel_id": 13,
+      "comment": "-"
+    },
+    {
+      "id": 115,
+      "points": 7,
+      "hotel_id": 3,
+      "comment": "-"
+    },
+    {
+      "id": 116,
+      "points": 10,
+      "hotel_id": 26,
+      "comment": "-"
+    },
+    {
+      "id": 117,
+      "points": 7,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 118,
+      "points": 7,
+      "hotel_id": 8,
+      "comment": "-"
+    },
+    {
+      "id": 119,
+      "points": 6,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 120,
+      "points": 4,
+      "hotel_id": 42,
+      "comment": "-"
+    },
+    {
+      "id": 121,
+      "points": 10,
+      "hotel_id": 3,
+      "comment": "-"
+    },
+    {
+      "id": 122,
+      "points": 10,
+      "hotel_id": 19,
+      "comment": "-"
+    },
+    {
+      "id": 123,
+      "points": 2,
+      "hotel_id": 2,
+      "comment": "-"
+    },
+    {
+      "id": 124,
+      "points": 10,
+      "hotel_id": 33,
+      "comment": "-"
+    },
+    {
+      "id": 125,
+      "points": 8,
+      "hotel_id": 27,
+      "comment": "-"
+    },
+    {
+      "id": 126,
+      "points": 10,
+      "hotel_id": 3,
+      "comment": "-"
+    },
+    {
+      "id": 127,
+      "points": 7,
+      "hotel_id": 30,
+      "comment": "-"
+    },
+    {
+      "id": 128,
+      "points": 9,
+      "hotel_id": 25,
+      "comment": "-"
+    },
+    {
+      "id": 129,
+      "points": 1,
+      "hotel_id": 32,
+      "comment": "-"
+    },
+    {
+      "id": 130,
+      "points": 2,
+      "hotel_id": 6,
+      "comment": "-"
+    },
+    {
+      "id": 131,
+      "points": 5,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 132,
+      "points": 10,
+      "hotel_id": 32,
+      "comment": "-"
+    },
+    {
+      "id": 133,
+      "points": 9,
+      "hotel_id": 28,
+      "comment": "-"
+    },
+    {
+      "id": 134,
+      "points": 3,
+      "hotel_id": 28,
+      "comment": "-"
+    },
+    {
+      "id": 135,
+      "points": 10,
+      "hotel_id": 16,
+      "comment": "-"
+    },
+    {
+      "id": 136,
+      "points": 7,
+      "hotel_id": 11,
+      "comment": "-"
+    },
+    {
+      "id": 137,
+      "points": 6,
+      "hotel_id": 37,
+      "comment": "-"
+    },
+    {
+      "id": 138,
+      "points": 5,
+      "hotel_id": 7,
+      "comment": "-"
+    },
+    {
+      "id": 139,
+      "points": 9,
+      "hotel_id": 9,
+      "comment": "-"
+    },
+    {
+      "id": 140,
+      "points": 7,
+      "hotel_id": 29,
+      "comment": "-"
+    },
+    {
+      "id": 141,
+      "points": 9,
+      "hotel_id": 12,
+      "comment": "-"
+    },
+    {
+      "id": 142,
+      "points": 5,
+      "hotel_id": 9,
+      "comment": "-"
+    },
+    {
+      "id": 143,
+      "points": 2,
+      "hotel_id": 5,
+      "comment": "-"
+    },
+    {
+      "id": 144,
+      "points": 5,
+      "hotel_id": 40,
+      "comment": "-"
+    },
+    {
+      "id": 145,
+      "points": 5,
+      "hotel_id": 16,
+      "comment": "-"
+    },
+    {
+      "id": 146,
+      "points": 4,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 147,
+      "points": 4,
+      "hotel_id": 26,
+      "comment": "-"
+    },
+    {
+      "id": 148,
+      "points": 6,
+      "hotel_id": 30,
+      "comment": "-"
+    },
+    {
+      "id": 149,
+      "points": 5,
+      "hotel_id": 18,
+      "comment": "-"
+    },
+    {
+      "id": 150,
+      "points": 7,
+      "hotel_id": 21,
+      "comment": "-"
+    },
+    {
+      "id": 151,
+      "points": 1,
+      "hotel_id": 12,
+      "comment": "-"
+    },
+    {
+      "id": 152,
+      "points": 3,
+      "hotel_id": 34,
+      "comment": "-"
+    },
+    {
+      "id": 153,
+      "points": 9,
+      "hotel_id": 21,
+      "comment": "-"
+    },
+    {
+      "id": 154,
+      "points": 5,
+      "hotel_id": 15,
+      "comment": "-"
+    },
+    {
+      "id": 155,
+      "points": 3,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 156,
+      "points": 5,
+      "hotel_id": 6,
+      "comment": "-"
+    },
+    {
+      "id": 157,
+      "points": 2,
+      "hotel_id": 13,
+      "comment": "-"
+    },
+    {
+      "id": 158,
+      "points": 9,
+      "hotel_id": 25,
+      "comment": "-"
+    },
+    {
+      "id": 159,
+      "points": 10,
+      "hotel_id": 22,
+      "comment": "-"
+    },
+    {
+      "id": 160,
+      "points": 2,
+      "hotel_id": 11,
+      "comment": "-"
+    },
+    {
+      "id": 161,
+      "points": 8,
+      "hotel_id": 8,
+      "comment": "-"
+    },
+    {
+      "id": 162,
+      "points": 10,
+      "hotel_id": 31,
+      "comment": "-"
+    },
+    {
+      "id": 163,
+      "points": 2,
+      "hotel_id": 2,
+      "comment": "-"
+    },
+    {
+      "id": 164,
+      "points": 8,
+      "hotel_id": 6,
+      "comment": "-"
+    },
+    {
+      "id": 165,
+      "points": 2,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 166,
+      "points": 2,
+      "hotel_id": 7,
+      "comment": "-"
+    },
+    {
+      "id": 167,
+      "points": 4,
+      "hotel_id": 1,
+      "comment": "-"
+    },
+    {
+      "id": 168,
+      "points": 7,
+      "hotel_id": 11,
+      "comment": "-"
+    },
+    {
+      "id": 169,
+      "points": 10,
+      "hotel_id": 40,
+      "comment": "-"
+    },
+    {
+      "id": 170,
+      "points": 7,
+      "hotel_id": 38,
+      "comment": "-"
+    },
+    {
+      "id": 171,
+      "points": 9,
+      "hotel_id": 34,
+      "comment": "-"
+    },
+    {
+      "id": 172,
+      "points": 7,
+      "hotel_id": 27,
+      "comment": "-"
+    },
+    {
+      "id": 173,
+      "points": 4,
+      "hotel_id": 35,
+      "comment": "-"
+    },
+    {
+      "id": 174,
+      "points": 9,
+      "hotel_id": 9,
+      "comment": "-"
+    },
+    {
+      "id": 175,
+      "points": 1,
+      "hotel_id": 24,
+      "comment": "-"
+    },
+    {
+      "id": 176,
+      "points": 3,
+      "hotel_id": 12,
+      "comment": "-"
+    },
+    {
+      "id": 177,
+      "points": 9,
+      "hotel_id": 19,
+      "comment": "-"
+    },
+    {
+      "id": 178,
+      "points": 9,
+      "hotel_id": 38,
+      "comment": "-"
+    },
+    {
+      "id": 179,
+      "points": 7,
+      "hotel_id": 28,
+      "comment": "-"
+    },
+    {
+      "id": 180,
+      "points": 2,
+      "hotel_id": 28,
+      "comment": "-"
+    },
+    {
+      "id": 181,
+      "points": 8,
+      "hotel_id": 23,
+      "comment": "-"
+    },
+    {
+      "id": 182,
+      "points": 8,
+      "hotel_id": 24,
+      "comment": "-"
+    },
+    {
+      "id": 183,
+      "points": 6,
+      "hotel_id": 29,
+      "comment": "-"
+    },
+    {
+      "id": 184,
+      "points": 6,
+      "hotel_id": 26,
+      "comment": "-"
+    },
+    {
+      "id": 185,
+      "points": 4,
+      "hotel_id": 9,
+      "comment": "-"
+    },
+    {
+      "id": 186,
+      "points": 9,
+      "hotel_id": 19,
+      "comment": "-"
+    },
+    {
+      "id": 187,
+      "points": 8,
+      "hotel_id": 3,
+      "comment": "-"
+    },
+    {
+      "id": 188,
+      "points": 4,
+      "hotel_id": 26,
+      "comment": "-"
+    },
+    {
+      "id": 189,
+      "points": 2,
+      "hotel_id": 16,
+      "comment": "-"
+    },
+    {
+      "id": 190,
+      "points": 5,
+      "hotel_id": 24,
+      "comment": "-"
+    },
+    {
+      "id": 191,
+      "points": 8,
+      "hotel_id": 23,
+      "comment": "-"
+    },
+    {
+      "id": 192,
+      "points": 3,
+      "hotel_id": 19,
+      "comment": "-"
+    },
+    {
+      "id": 193,
+      "points": 9,
+      "hotel_id": 5,
+      "comment": "-"
+    },
+    {
+      "id": 194,
+      "points": 10,
+      "hotel_id": 7,
+      "comment": "-"
+    },
+    {
+      "id": 195,
+      "points": 6,
+      "hotel_id": 11,
+      "comment": "-"
+    },
+    {
+      "id": 196,
+      "points": 9,
+      "hotel_id": 27,
+      "comment": "-"
+    },
+    {
+      "id": 197,
+      "points": 10,
+      "hotel_id": 15,
+      "comment": "-"
+    },
+    {
+      "id": 198,
+      "points": 1,
+      "hotel_id": 31,
+      "comment": "-"
+    },
+    {
+      "id": 199,
+      "points": 6,
+      "hotel_id": 41,
+      "comment": "-"
+    },
+    {
+      "id": 200,
+      "points": 8,
+      "hotel_id": 16,
+      "comment": "-"
+    },
+    {
+      "id": 201,
+      "points": 1,
+      "hotel_id": 12,
+      "comment": "-"
+    },
+    {
+      "id": 202,
+      "points": 5,
+      "hotel_id": 9,
+      "comment": "-"
+    },
+    {
+      "id": 203,
+      "points": 2,
+      "hotel_id": 14,
+      "comment": "-"
+    },
+    {
+      "id": 204,
+      "points": 9,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 205,
+      "points": 8,
+      "hotel_id": 14,
+      "comment": "-"
+    },
+    {
+      "id": 206,
+      "points": 8,
+      "hotel_id": 7,
+      "comment": "-"
+    },
+    {
+      "id": 207,
+      "points": 2,
+      "hotel_id": 33,
+      "comment": "-"
+    },
+    {
+      "id": 208,
+      "points": 5,
+      "hotel_id": 3,
+      "comment": "-"
+    },
+    {
+      "id": 209,
+      "points": 10,
+      "hotel_id": 21,
+      "comment": "-"
+    },
+    {
+      "id": 210,
+      "points": 9,
+      "hotel_id": 37,
+      "comment": "-"
+    },
+    {
+      "id": 211,
+      "points": 10,
+      "hotel_id": 8,
+      "comment": "-"
+    },
+    {
+      "id": 212,
+      "points": 1,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 213,
+      "points": 3,
+      "hotel_id": 9,
+      "comment": "-"
+    },
+    {
+      "id": 214,
+      "points": 7,
+      "hotel_id": 25,
+      "comment": "-"
+    },
+    {
+      "id": 215,
+      "points": 8,
+      "hotel_id": 13,
+      "comment": "-"
+    },
+    {
+      "id": 216,
+      "points": 7,
+      "hotel_id": 34,
+      "comment": "-"
+    },
+    {
+      "id": 217,
+      "points": 5,
+      "hotel_id": 30,
+      "comment": "-"
+    },
+    {
+      "id": 218,
+      "points": 3,
+      "hotel_id": 37,
+      "comment": "-"
+    },
+    {
+      "id": 219,
+      "points": 3,
+      "hotel_id": 32,
+      "comment": "-"
+    },
+    {
+      "id": 220,
+      "points": 8,
+      "hotel_id": 32,
+      "comment": "-"
+    },
+    {
+      "id": 221,
+      "points": 5,
+      "hotel_id": 1,
+      "comment": "-"
+    },
+    {
+      "id": 222,
+      "points": 6,
+      "hotel_id": 28,
+      "comment": "-"
+    },
+    {
+      "id": 223,
+      "points": 1,
+      "hotel_id": 27,
+      "comment": "-"
+    },
+    {
+      "id": 224,
+      "points": 8,
+      "hotel_id": 5,
+      "comment": "-"
+    },
+    {
+      "id": 225,
+      "points": 6,
+      "hotel_id": 33,
+      "comment": "-"
+    },
+    {
+      "id": 226,
+      "points": 10,
+      "hotel_id": 16,
+      "comment": "-"
+    },
+    {
+      "id": 227,
+      "points": 2,
+      "hotel_id": 19,
+      "comment": "-"
+    },
+    {
+      "id": 228,
+      "points": 8,
+      "hotel_id": 33,
+      "comment": "-"
+    },
+    {
+      "id": 229,
+      "points": 2,
+      "hotel_id": 2,
+      "comment": "-"
+    },
+    {
+      "id": 230,
+      "points": 7,
+      "hotel_id": 23,
+      "comment": "-"
+    },
+    {
+      "id": 231,
+      "points": 2,
+      "hotel_id": 8,
+      "comment": "-"
+    },
+    {
+      "id": 232,
+      "points": 7,
+      "hotel_id": 37,
+      "comment": "-"
+    },
+    {
+      "id": 233,
+      "points": 2,
+      "hotel_id": 21,
+      "comment": "-"
+    },
+    {
+      "id": 234,
+      "points": 4,
+      "hotel_id": 9,
+      "comment": "-"
+    },
+    {
+      "id": 235,
+      "points": 10,
+      "hotel_id": 2,
+      "comment": "-"
+    },
+    {
+      "id": 236,
+      "points": 4,
+      "hotel_id": 6,
+      "comment": "-"
+    },
+    {
+      "id": 237,
+      "points": 1,
+      "hotel_id": 15,
+      "comment": "-"
+    },
+    {
+      "id": 238,
+      "points": 5,
+      "hotel_id": 26,
+      "comment": "-"
+    },
+    {
+      "id": 239,
+      "points": 5,
+      "hotel_id": 7,
+      "comment": "-"
+    },
+    {
+      "id": 240,
+      "points": 8,
+      "hotel_id": 38,
+      "comment": "-"
+    },
+    {
+      "id": 241,
+      "points": 5,
+      "hotel_id": 26,
+      "comment": "-"
+    },
+    {
+      "id": 242,
+      "points": 3,
+      "hotel_id": 11,
+      "comment": "-"
+    },
+    {
+      "id": 243,
+      "points": 8,
+      "hotel_id": 41,
+      "comment": "-"
+    },
+    {
+      "id": 244,
+      "points": 2,
+      "hotel_id": 37,
+      "comment": "-"
+    },
+    {
+      "id": 245,
+      "points": 1,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 246,
+      "points": 3,
+      "hotel_id": 33,
+      "comment": "-"
+    },
+    {
+      "id": 247,
+      "points": 4,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 248,
+      "points": 8,
+      "hotel_id": 20,
+      "comment": "-"
+    },
+    {
+      "id": 249,
+      "points": 8,
+      "hotel_id": 2,
+      "comment": "-"
+    },
+    {
+      "id": 250,
+      "points": 8,
+      "hotel_id": 6,
+      "comment": "-"
+    },
+    {
+      "id": 251,
+      "points": 1,
+      "hotel_id": 3,
+      "comment": "-"
+    },
+    {
+      "id": 252,
+      "points": 3,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 253,
+      "points": 6,
+      "hotel_id": 3,
+      "comment": "-"
+    },
+    {
+      "id": 254,
+      "points": 6,
+      "hotel_id": 19,
+      "comment": "-"
+    },
+    {
+      "id": 255,
+      "points": 4,
+      "hotel_id": 9,
+      "comment": "-"
+    },
+    {
+      "id": 256,
+      "points": 8,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 257,
+      "points": 7,
+      "hotel_id": 26,
+      "comment": "-"
+    },
+    {
+      "id": 258,
+      "points": 3,
+      "hotel_id": 41,
+      "comment": "-"
+    },
+    {
+      "id": 259,
+      "points": 6,
+      "hotel_id": 11,
+      "comment": "-"
+    },
+    {
+      "id": 260,
+      "points": 6,
+      "hotel_id": 38,
+      "comment": "-"
+    },
+    {
+      "id": 261,
+      "points": 7,
+      "hotel_id": 8,
+      "comment": "-"
+    },
+    {
+      "id": 262,
+      "points": 2,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 263,
+      "points": 2,
+      "hotel_id": 39,
+      "comment": "-"
+    },
+    {
+      "id": 264,
+      "points": 2,
+      "hotel_id": 8,
+      "comment": "-"
+    },
+    {
+      "id": 265,
+      "points": 7,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 266,
+      "points": 4,
+      "hotel_id": 9,
+      "comment": "-"
+    },
+    {
+      "id": 267,
+      "points": 9,
+      "hotel_id": 2,
+      "comment": "-"
+    },
+    {
+      "id": 268,
+      "points": 9,
+      "hotel_id": 21,
+      "comment": "-"
+    },
+    {
+      "id": 269,
+      "points": 3,
+      "hotel_id": 2,
+      "comment": "-"
+    },
+    {
+      "id": 270,
+      "points": 10,
+      "hotel_id": 10,
+      "comment": "-"
+    },
+    {
+      "id": 271,
+      "points": 4,
+      "hotel_id": 26,
+      "comment": "-"
+    },
+    {
+      "id": 272,
+      "points": 6,
+      "hotel_id": 11,
+      "comment": "-"
+    },
+    {
+      "id": 273,
+      "points": 8,
+      "hotel_id": 27,
+      "comment": "-"
+    },
+    {
+      "id": 274,
+      "points": 4,
+      "hotel_id": 39,
+      "comment": "-"
+    },
+    {
+      "id": 275,
+      "points": 1,
+      "hotel_id": 22,
+      "comment": "-"
+    },
+    {
+      "id": 276,
+      "points": 3,
+      "hotel_id": 31,
+      "comment": "-"
+    },
+    {
+      "id": 277,
+      "points": 4,
+      "hotel_id": 33,
+      "comment": "-"
+    },
+    {
+      "id": 278,
+      "points": 1,
+      "hotel_id": 40,
+      "comment": "-"
+    },
+    {
+      "id": 279,
+      "points": 4,
+      "hotel_id": 40,
+      "comment": "-"
+    },
+    {
+      "id": 280,
+      "points": 7,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 281,
+      "points": 5,
+      "hotel_id": 34,
+      "comment": "-"
+    },
+    {
+      "id": 282,
+      "points": 6,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 283,
+      "points": 5,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 284,
+      "points": 6,
+      "hotel_id": 8,
+      "comment": "-"
+    },
+    {
+      "id": 285,
+      "points": 9,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 286,
+      "points": 1,
+      "hotel_id": 22,
+      "comment": "-"
+    },
+    {
+      "id": 287,
+      "points": 3,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 288,
+      "points": 3,
+      "hotel_id": 6,
+      "comment": "-"
+    },
+    {
+      "id": 289,
+      "points": 2,
+      "hotel_id": 29,
+      "comment": "-"
+    },
+    {
+      "id": 290,
+      "points": 5,
+      "hotel_id": 38,
+      "comment": "-"
+    },
+    {
+      "id": 291,
+      "points": 2,
+      "hotel_id": 27,
+      "comment": "-"
+    },
+    {
+      "id": 292,
+      "points": 5,
+      "hotel_id": 20,
+      "comment": "-"
+    },
+    {
+      "id": 293,
+      "points": 8,
+      "hotel_id": 1,
+      "comment": "-"
+    },
+    {
+      "id": 294,
+      "points": 9,
+      "hotel_id": 5,
+      "comment": "-"
+    },
+    {
+      "id": 295,
+      "points": 8,
+      "hotel_id": 33,
+      "comment": "-"
+    },
+    {
+      "id": 296,
+      "points": 4,
+      "hotel_id": 19,
+      "comment": "-"
+    },
+    {
+      "id": 297,
+      "points": 10,
+      "hotel_id": 3,
+      "comment": "-"
+    },
+    {
+      "id": 298,
+      "points": 4,
+      "hotel_id": 23,
+      "comment": "-"
+    },
+    {
+      "id": 299,
+      "points": 6,
+      "hotel_id": 42,
+      "comment": "-"
+    },
+    {
+      "id": 300,
+      "points": 3,
+      "hotel_id": 41,
+      "comment": "-"
+    },
+    {
+      "id": 301,
+      "points": 6,
+      "hotel_id": 42,
+      "comment": "-"
+    },
+    {
+      "id": 302,
+      "points": 10,
+      "hotel_id": 2,
+      "comment": "-"
+    },
+    {
+      "id": 303,
+      "points": 4,
+      "hotel_id": 27,
+      "comment": "-"
+    },
+    {
+      "id": 304,
+      "points": 7,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 305,
+      "points": 2,
+      "hotel_id": 6,
+      "comment": "-"
+    },
+    {
+      "id": 306,
+      "points": 4,
+      "hotel_id": 21,
+      "comment": "-"
+    },
+    {
+      "id": 307,
+      "points": 4,
+      "hotel_id": 41,
+      "comment": "-"
+    },
+    {
+      "id": 308,
+      "points": 8,
+      "hotel_id": 7,
+      "comment": "-"
+    },
+    {
+      "id": 309,
+      "points": 9,
+      "hotel_id": 2,
+      "comment": "-"
+    },
+    {
+      "id": 310,
+      "points": 7,
+      "hotel_id": 10,
+      "comment": "-"
+    },
+    {
+      "id": 311,
+      "points": 8,
+      "hotel_id": 34,
+      "comment": "-"
+    },
+    {
+      "id": 312,
+      "points": 1,
+      "hotel_id": 6,
+      "comment": "-"
+    },
+    {
+      "id": 313,
+      "points": 1,
+      "hotel_id": 13,
+      "comment": "-"
+    },
+    {
+      "id": 314,
+      "points": 4,
+      "hotel_id": 19,
+      "comment": "-"
+    },
+    {
+      "id": 315,
+      "points": 7,
+      "hotel_id": 10,
+      "comment": "-"
+    },
+    {
+      "id": 316,
+      "points": 9,
+      "hotel_id": 35,
+      "comment": "-"
+    },
+    {
+      "id": 317,
+      "points": 10,
+      "hotel_id": 1,
+      "comment": "-"
+    },
+    {
+      "id": 318,
+      "points": 5,
+      "hotel_id": 31,
+      "comment": "-"
+    },
+    {
+      "id": 319,
+      "points": 2,
+      "hotel_id": 37,
+      "comment": "-"
+    },
+    {
+      "id": 320,
+      "points": 1,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 321,
+      "points": 6,
+      "hotel_id": 35,
+      "comment": "-"
+    },
+    {
+      "id": 322,
+      "points": 2,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 323,
+      "points": 3,
+      "hotel_id": 6,
+      "comment": "-"
+    },
+    {
+      "id": 324,
+      "points": 10,
+      "hotel_id": 12,
+      "comment": "-"
+    },
+    {
+      "id": 325,
+      "points": 8,
+      "hotel_id": 30,
+      "comment": "-"
+    },
+    {
+      "id": 326,
+      "points": 5,
+      "hotel_id": 23,
+      "comment": "-"
+    },
+    {
+      "id": 327,
+      "points": 2,
+      "hotel_id": 19,
+      "comment": "-"
+    },
+    {
+      "id": 328,
+      "points": 3,
+      "hotel_id": 2,
+      "comment": "-"
+    },
+    {
+      "id": 329,
+      "points": 2,
+      "hotel_id": 1,
+      "comment": "-"
+    },
+    {
+      "id": 330,
+      "points": 5,
+      "hotel_id": 41,
+      "comment": "-"
+    },
+    {
+      "id": 331,
+      "points": 2,
+      "hotel_id": 29,
+      "comment": "-"
+    },
+    {
+      "id": 332,
+      "points": 4,
+      "hotel_id": 6,
+      "comment": "-"
+    },
+    {
+      "id": 333,
+      "points": 3,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 334,
+      "points": 5,
+      "hotel_id": 14,
+      "comment": "-"
+    },
+    {
+      "id": 335,
+      "points": 9,
+      "hotel_id": 41,
+      "comment": "-"
+    },
+    {
+      "id": 336,
+      "points": 3,
+      "hotel_id": 29,
+      "comment": "-"
+    },
+    {
+      "id": 337,
+      "points": 10,
+      "hotel_id": 37,
+      "comment": "-"
+    },
+    {
+      "id": 338,
+      "points": 9,
+      "hotel_id": 31,
+      "comment": "-"
+    },
+    {
+      "id": 339,
+      "points": 10,
+      "hotel_id": 10,
+      "comment": "-"
+    },
+    {
+      "id": 340,
+      "points": 6,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 341,
+      "points": 3,
+      "hotel_id": 30,
+      "comment": "-"
+    },
+    {
+      "id": 342,
+      "points": 5,
+      "hotel_id": 1,
+      "comment": "-"
+    },
+    {
+      "id": 343,
+      "points": 3,
+      "hotel_id": 34,
+      "comment": "-"
+    },
+    {
+      "id": 344,
+      "points": 1,
+      "hotel_id": 6,
+      "comment": "-"
+    },
+    {
+      "id": 345,
+      "points": 2,
+      "hotel_id": 35,
+      "comment": "-"
+    },
+    {
+      "id": 346,
+      "points": 6,
+      "hotel_id": 24,
+      "comment": "-"
+    },
+    {
+      "id": 347,
+      "points": 3,
+      "hotel_id": 15,
+      "comment": "-"
+    },
+    {
+      "id": 348,
+      "points": 3,
+      "hotel_id": 11,
+      "comment": "-"
+    },
+    {
+      "id": 349,
+      "points": 10,
+      "hotel_id": 29,
+      "comment": "-"
+    },
+    {
+      "id": 350,
+      "points": 2,
+      "hotel_id": 13,
+      "comment": "-"
+    },
+    {
+      "id": 351,
+      "points": 6,
+      "hotel_id": 42,
+      "comment": "-"
+    },
+    {
+      "id": 352,
+      "points": 3,
+      "hotel_id": 14,
+      "comment": "-"
+    },
+    {
+      "id": 353,
+      "points": 8,
+      "hotel_id": 29,
+      "comment": "-"
+    },
+    {
+      "id": 354,
+      "points": 4,
+      "hotel_id": 24,
+      "comment": "-"
+    },
+    {
+      "id": 355,
+      "points": 4,
+      "hotel_id": 30,
+      "comment": "-"
+    },
+    {
+      "id": 356,
+      "points": 8,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 357,
+      "points": 2,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 358,
+      "points": 2,
+      "hotel_id": 31,
+      "comment": "-"
+    },
+    {
+      "id": 359,
+      "points": 7,
+      "hotel_id": 1,
+      "comment": "-"
+    },
+    {
+      "id": 360,
+      "points": 5,
+      "hotel_id": 21,
+      "comment": "-"
+    },
+    {
+      "id": 361,
+      "points": 3,
+      "hotel_id": 38,
+      "comment": "-"
+    },
+    {
+      "id": 362,
+      "points": 5,
+      "hotel_id": 24,
+      "comment": "-"
+    },
+    {
+      "id": 363,
+      "points": 5,
+      "hotel_id": 34,
+      "comment": "-"
+    },
+    {
+      "id": 364,
+      "points": 9,
+      "hotel_id": 41,
+      "comment": "-"
+    },
+    {
+      "id": 365,
+      "points": 9,
+      "hotel_id": 42,
+      "comment": "-"
+    },
+    {
+      "id": 366,
+      "points": 1,
+      "hotel_id": 41,
+      "comment": "-"
+    },
+    {
+      "id": 367,
+      "points": 8,
+      "hotel_id": 8,
+      "comment": "-"
+    },
+    {
+      "id": 368,
+      "points": 2,
+      "hotel_id": 38,
+      "comment": "-"
+    },
+    {
+      "id": 369,
+      "points": 5,
+      "hotel_id": 35,
+      "comment": "-"
+    },
+    {
+      "id": 370,
+      "points": 4,
+      "hotel_id": 24,
+      "comment": "-"
+    },
+    {
+      "id": 371,
+      "points": 8,
+      "hotel_id": 38,
+      "comment": "-"
+    },
+    {
+      "id": 372,
+      "points": 5,
+      "hotel_id": 39,
+      "comment": "-"
+    },
+    {
+      "id": 373,
+      "points": 8,
+      "hotel_id": 10,
+      "comment": "-"
+    },
+    {
+      "id": 374,
+      "points": 5,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 375,
+      "points": 3,
+      "hotel_id": 39,
+      "comment": "-"
+    },
+    {
+      "id": 376,
+      "points": 1,
+      "hotel_id": 11,
+      "comment": "-"
+    },
+    {
+      "id": 377,
+      "points": 9,
+      "hotel_id": 6,
+      "comment": "-"
+    },
+    {
+      "id": 378,
+      "points": 5,
+      "hotel_id": 22,
+      "comment": "-"
+    },
+    {
+      "id": 379,
+      "points": 5,
+      "hotel_id": 16,
+      "comment": "-"
+    },
+    {
+      "id": 380,
+      "points": 2,
+      "hotel_id": 14,
+      "comment": "-"
+    },
+    {
+      "id": 381,
+      "points": 5,
+      "hotel_id": 21,
+      "comment": "-"
+    },
+    {
+      "id": 382,
+      "points": 8,
+      "hotel_id": 41,
+      "comment": "-"
+    },
+    {
+      "id": 383,
+      "points": 8,
+      "hotel_id": 35,
+      "comment": "-"
+    },
+    {
+      "id": 384,
+      "points": 5,
+      "hotel_id": 3,
+      "comment": "-"
+    },
+    {
+      "id": 385,
+      "points": 1,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 386,
+      "points": 3,
+      "hotel_id": 33,
+      "comment": "-"
+    },
+    {
+      "id": 387,
+      "points": 10,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 388,
+      "points": 5,
+      "hotel_id": 11,
+      "comment": "-"
+    },
+    {
+      "id": 389,
+      "points": 5,
+      "hotel_id": 18,
+      "comment": "-"
+    },
+    {
+      "id": 390,
+      "points": 8,
+      "hotel_id": 40,
+      "comment": "-"
+    },
+    {
+      "id": 391,
+      "points": 5,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 392,
+      "points": 2,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 393,
+      "points": 2,
+      "hotel_id": 7,
+      "comment": "-"
+    },
+    {
+      "id": 394,
+      "points": 6,
+      "hotel_id": 20,
+      "comment": "-"
+    },
+    {
+      "id": 395,
+      "points": 9,
+      "hotel_id": 29,
+      "comment": "-"
+    },
+    {
+      "id": 396,
+      "points": 10,
+      "hotel_id": 16,
+      "comment": "-"
+    },
+    {
+      "id": 397,
+      "points": 6,
+      "hotel_id": 18,
+      "comment": "-"
+    },
+    {
+      "id": 398,
+      "points": 2,
+      "hotel_id": 10,
+      "comment": "-"
+    },
+    {
+      "id": 399,
+      "points": 10,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 400,
+      "points": 8,
+      "hotel_id": 28,
+      "comment": "-"
+    },
+    {
+      "id": 401,
+      "points": 8,
+      "hotel_id": 28,
+      "comment": "-"
+    },
+    {
+      "id": 402,
+      "points": 1,
+      "hotel_id": 30,
+      "comment": "-"
+    },
+    {
+      "id": 403,
+      "points": 7,
+      "hotel_id": 7,
+      "comment": "-"
+    },
+    {
+      "id": 404,
+      "points": 5,
+      "hotel_id": 34,
+      "comment": "-"
+    },
+    {
+      "id": 405,
+      "points": 3,
+      "hotel_id": 37,
+      "comment": "-"
+    },
+    {
+      "id": 406,
+      "points": 5,
+      "hotel_id": 28,
+      "comment": "-"
+    },
+    {
+      "id": 407,
+      "points": 6,
+      "hotel_id": 35,
+      "comment": "-"
+    },
+    {
+      "id": 408,
+      "points": 7,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 409,
+      "points": 6,
+      "hotel_id": 28,
+      "comment": "-"
+    },
+    {
+      "id": 410,
+      "points": 1,
+      "hotel_id": 21,
+      "comment": "-"
+    },
+    {
+      "id": 411,
+      "points": 6,
+      "hotel_id": 14,
+      "comment": "-"
+    },
+    {
+      "id": 412,
+      "points": 1,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 413,
+      "points": 2,
+      "hotel_id": 9,
+      "comment": "-"
+    },
+    {
+      "id": 414,
+      "points": 7,
+      "hotel_id": 13,
+      "comment": "-"
+    },
+    {
+      "id": 415,
+      "points": 7,
+      "hotel_id": 25,
+      "comment": "-"
+    },
+    {
+      "id": 416,
+      "points": 3,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 417,
+      "points": 6,
+      "hotel_id": 6,
+      "comment": "-"
+    },
+    {
+      "id": 418,
+      "points": 8,
+      "hotel_id": 41,
+      "comment": "-"
+    },
+    {
+      "id": 419,
+      "points": 3,
+      "hotel_id": 37,
+      "comment": "-"
+    },
+    {
+      "id": 420,
+      "points": 4,
+      "hotel_id": 14,
+      "comment": "-"
+    },
+    {
+      "id": 421,
+      "points": 7,
+      "hotel_id": 21,
+      "comment": "-"
+    },
+    {
+      "id": 422,
+      "points": 5,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 423,
+      "points": 6,
+      "hotel_id": 39,
+      "comment": "-"
+    },
+    {
+      "id": 424,
+      "points": 3,
+      "hotel_id": 33,
+      "comment": "-"
+    },
+    {
+      "id": 425,
+      "points": 8,
+      "hotel_id": 15,
+      "comment": "-"
+    },
+    {
+      "id": 426,
+      "points": 3,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 427,
+      "points": 9,
+      "hotel_id": 7,
+      "comment": "-"
+    },
+    {
+      "id": 428,
+      "points": 9,
+      "hotel_id": 15,
+      "comment": "-"
+    },
+    {
+      "id": 429,
+      "points": 10,
+      "hotel_id": 30,
+      "comment": "-"
+    },
+    {
+      "id": 430,
+      "points": 2,
+      "hotel_id": 11,
+      "comment": "-"
+    },
+    {
+      "id": 431,
+      "points": 6,
+      "hotel_id": 12,
+      "comment": "-"
+    },
+    {
+      "id": 432,
+      "points": 1,
+      "hotel_id": 2,
+      "comment": "-"
+    },
+    {
+      "id": 433,
+      "points": 5,
+      "hotel_id": 41,
+      "comment": "-"
+    },
+    {
+      "id": 434,
+      "points": 1,
+      "hotel_id": 10,
+      "comment": "-"
+    },
+    {
+      "id": 435,
+      "points": 4,
+      "hotel_id": 5,
+      "comment": "-"
+    },
+    {
+      "id": 436,
+      "points": 6,
+      "hotel_id": 37,
+      "comment": "-"
+    },
+    {
+      "id": 437,
+      "points": 3,
+      "hotel_id": 14,
+      "comment": "-"
+    },
+    {
+      "id": 438,
+      "points": 5,
+      "hotel_id": 37,
+      "comment": "-"
+    },
+    {
+      "id": 439,
+      "points": 4,
+      "hotel_id": 30,
+      "comment": "-"
+    },
+    {
+      "id": 440,
+      "points": 1,
+      "hotel_id": 11,
+      "comment": "-"
+    },
+    {
+      "id": 441,
+      "points": 4,
+      "hotel_id": 32,
+      "comment": "-"
+    },
+    {
+      "id": 442,
+      "points": 3,
+      "hotel_id": 33,
+      "comment": "-"
+    },
+    {
+      "id": 443,
+      "points": 9,
+      "hotel_id": 25,
+      "comment": "-"
+    },
+    {
+      "id": 444,
+      "points": 3,
+      "hotel_id": 30,
+      "comment": "-"
+    },
+    {
+      "id": 445,
+      "points": 2,
+      "hotel_id": 4,
+      "comment": "-"
+    },
+    {
+      "id": 446,
+      "points": 4,
+      "hotel_id": 30,
+      "comment": "-"
+    },
+    {
+      "id": 447,
+      "points": 9,
+      "hotel_id": 42,
+      "comment": "-"
+    },
+    {
+      "id": 448,
+      "points": 7,
+      "hotel_id": 32,
+      "comment": "-"
+    },
+    {
+      "id": 449,
+      "points": 10,
+      "hotel_id": 35,
+      "comment": "-"
+    },
+    {
+      "id": 450,
+      "points": 6,
+      "hotel_id": 19,
+      "comment": "-"
+    },
+    {
+      "id": 451,
+      "points": 5,
+      "hotel_id": 8,
+      "comment": "-"
+    },
+    {
+      "id": 452,
+      "points": 5,
+      "hotel_id": 9,
+      "comment": "-"
+    },
+    {
+      "id": 453,
+      "points": 4,
+      "hotel_id": 5,
+      "comment": "-"
+    },
+    {
+      "id": 454,
+      "points": 9,
+      "hotel_id": 8,
+      "comment": "-"
+    },
+    {
+      "id": 455,
+      "points": 8,
+      "hotel_id": 18,
+      "comment": "-"
+    },
+    {
+      "id": 456,
+      "points": 2,
+      "hotel_id": 30,
+      "comment": "-"
+    },
+    {
+      "id": 457,
+      "points": 5,
+      "hotel_id": 27,
+      "comment": "-"
+    },
+    {
+      "id": 458,
+      "points": 8,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 459,
+      "points": 1,
+      "hotel_id": 20,
+      "comment": "-"
+    },
+    {
+      "id": 460,
+      "points": 4,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 461,
+      "points": 4,
+      "hotel_id": 19,
+      "comment": "-"
+    },
+    {
+      "id": 462,
+      "points": 10,
+      "hotel_id": 8,
+      "comment": "-"
+    },
+    {
+      "id": 463,
+      "points": 6,
+      "hotel_id": 1,
+      "comment": "-"
+    },
+    {
+      "id": 464,
+      "points": 3,
+      "hotel_id": 15,
+      "comment": "-"
+    },
+    {
+      "id": 465,
+      "points": 7,
+      "hotel_id": 32,
+      "comment": "-"
+    },
+    {
+      "id": 466,
+      "points": 10,
+      "hotel_id": 28,
+      "comment": "-"
+    },
+    {
+      "id": 467,
+      "points": 7,
+      "hotel_id": 41,
+      "comment": "-"
+    },
+    {
+      "id": 468,
+      "points": 4,
+      "hotel_id": 33,
+      "comment": "-"
+    },
+    {
+      "id": 469,
+      "points": 4,
+      "hotel_id": 27,
+      "comment": "-"
+    },
+    {
+      "id": 470,
+      "points": 2,
+      "hotel_id": 31,
+      "comment": "-"
+    },
+    {
+      "id": 471,
+      "points": 2,
+      "hotel_id": 41,
+      "comment": "-"
+    },
+    {
+      "id": 472,
+      "points": 9,
+      "hotel_id": 27,
+      "comment": "-"
+    },
+    {
+      "id": 473,
+      "points": 1,
+      "hotel_id": 40,
+      "comment": "-"
+    },
+    {
+      "id": 474,
+      "points": 10,
+      "hotel_id": 36,
+      "comment": "-"
+    },
+    {
+      "id": 475,
+      "points": 10,
+      "hotel_id": 32,
+      "comment": "-"
+    },
+    {
+      "id": 476,
+      "points": 2,
+      "hotel_id": 39,
+      "comment": "-"
+    },
+    {
+      "id": 477,
+      "points": 8,
+      "hotel_id": 7,
+      "comment": "-"
+    },
+    {
+      "id": 478,
+      "points": 9,
+      "hotel_id": 40,
+      "comment": "-"
+    },
+    {
+      "id": 479,
+      "points": 2,
+      "hotel_id": 17,
+      "comment": "-"
+    },
+    {
+      "id": 480,
+      "points": 4,
+      "hotel_id": 8,
+      "comment": "-"
+    },
+    {
+      "id": 481,
+      "points": 1,
+      "hotel_id": 9,
+      "comment": "-"
+    },
+    {
+      "id": 482,
+      "points": 3,
+      "hotel_id": 18,
+      "comment": "-"
+    },
+    {
+      "id": 483,
+      "points": 8,
+      "hotel_id": 26,
+      "comment": "-"
+    },
+    {
+      "id": 484,
+      "points": 3,
+      "hotel_id": 40,
+      "comment": "-"
+    },
+    {
+      "id": 485,
+      "points": 5,
+      "hotel_id": 10,
+      "comment": "-"
+    },
+    {
+      "id": 486,
+      "points": 4,
+      "hotel_id": 9,
+      "comment": "-"
+    },
+    {
+      "id": 487,
+      "points": 3,
+      "hotel_id": 10,
+      "comment": "-"
+    },
+    {
+      "id": 488,
+      "points": 7,
+      "hotel_id": 23,
+      "comment": "-"
+    },
+    {
+      "id": 489,
+      "points": 5,
+      "hotel_id": 15,
+      "comment": "-"
+    },
+    {
+      "id": 490,
+      "points": 5,
+      "hotel_id": 26,
+      "comment": "-"
+    },
+    {
+      "id": 491,
+      "points": 5,
+      "hotel_id": 35,
+      "comment": "-"
+    },
+    {
+      "id": 492,
+      "points": 4,
+      "hotel_id": 7,
+      "comment": "-"
+    },
+    {
+      "id": 493,
+      "points": 5,
+      "hotel_id": 29,
+      "comment": "-"
+    },
+    {
+      "id": 494,
+      "points": 2,
+      "hotel_id": 31,
+      "comment": "-"
+    },
+    {
+      "id": 495,
+      "points": 1,
+      "hotel_id": 15,
+      "comment": "-"
+    },
+    {
+      "id": 496,
+      "points": 5,
+      "hotel_id": 7,
+      "comment": "-"
+    },
+    {
+      "id": 497,
+      "points": 4,
+      "hotel_id": 27,
+      "comment": "-"
+    },
+    {
+      "id": 498,
+      "points": 8,
+      "hotel_id": 14,
+      "comment": "-"
+    },
+    {
+      "id": 499,
+      "points": 9,
+      "hotel_id": 36,
+      "comment": "-"
+    }
+  ]
+}

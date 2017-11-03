@@ -1,0 +1,47 @@
+<h1>Hotelübersicht</h1>
+<div>
+    <table class="table">
+        <tr>
+            <th>
+                Hotel
+            </th>
+            <th>
+                Sterne
+            </th>
+            <th>
+                Country
+            </th>
+        </tr>
+        <template ngFor let-hotel [ngForOf]="hotels">
+            <tr (click)="selectHotel(hotel)" [style.backgroundColor]="selectedHotel?id==hotel.id?'grey':''">
+                <td>
+                    {{hotel.name}}
+                </td>
+                <td>
+                    {{hotel.stars}}
+                </td>
+                <td>
+                    {{hotel.country}}
+                </td>
+            </tr>
+        </template>
+    </table>
+</div>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+            <th>Punkte</th>
+            <th>Kommentar</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let rev of reviews">
+                <td>{{rev.points}}</td>
+                <td>{{rev.comment}}</td>
+                <button>Löschen</button>
+            </tr>
+        </tbody>
+    </table>
+</div>

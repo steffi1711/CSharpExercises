@@ -1,0 +1,256 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Schneider",
+      "country": "Germany",
+      "stars": 1
+    },
+    {
+      "id": 2,
+      "name": "\"At Home\" Appartmentvermietung Abelshof",
+      "country": "Swiss",
+      "stars": 4
+    },
+    {
+      "id": 3,
+      "name": "Hotel Omega",
+      "country": "Austria",
+      "stars": 1
+    },
+    {
+      "id": 4,
+      "name": "Hotel Restaurant Haus Niederrhein",
+      "country": "Swiss",
+      "stars": 2
+    },
+    {
+      "id": 5,
+      "name": "Benigni - Nichtraucherhaus",
+      "country": "Austria",
+      "stars": 4
+    },
+    {
+      "id": 6,
+      "name": "Landhaus Ulrike Räubig",
+      "country": "Austria",
+      "stars": 3
+    },
+    {
+      "id": 7,
+      "name": "Privatpension Sadrosny",
+      "country": "Swiss",
+      "stars": 1
+    },
+    {
+      "id": 8,
+      "name": "Gästehaus VillaPrix",
+      "country": "Austria",
+      "stars": 3
+    },
+    {
+      "id": 9,
+      "name": "Hotel Jeong",
+      "country": "Germany",
+      "stars": 3
+    },
+    {
+      "id": 10,
+      "name": "Familie Schiwek",
+      "country": "Austria",
+      "stars": 4
+    },
+    {
+      "id": 11,
+      "name": "Karin Wilmschen",
+      "country": "Swiss",
+      "stars": 3
+    },
+    {
+      "id": 12,
+      "name": "Dillmann",
+      "country": "Swiss",
+      "stars": 4
+    },
+    {
+      "id": 13,
+      "name": "Lüde",
+      "country": "Austria",
+      "stars": 4
+    },
+    {
+      "id": 14,
+      "name": "Margret Gerbet",
+      "country": "Austria",
+      "stars": 3
+    },
+    {
+      "id": 15,
+      "name": "Appartementvermietung Ben Leutl",
+      "country": "Germany",
+      "stars": 4
+    },
+    {
+      "id": 16,
+      "name": "Krause",
+      "country": "Swiss",
+      "stars": 1
+    },
+    {
+      "id": 17,
+      "name": "Rosies",
+      "country": "Austria",
+      "stars": 1
+    },
+    {
+      "id": 18,
+      "name": "Christiane Baschek",
+      "country": "Germany",
+      "stars": 1
+    },
+    {
+      "id": 19,
+      "name": "City Hotel Moers",
+      "country": "Austria",
+      "stars": 1
+    },
+    {
+      "id": 20,
+      "name": "Frank Triesch",
+      "country": "Swiss",
+      "stars": 3
+    },
+    {
+      "id": 21,
+      "name": "Helma Mayer",
+      "country": "Swiss",
+      "stars": 1
+    },
+    {
+      "id": 22,
+      "name": "Hotel Garni am Bahnhof",
+      "country": "Germany",
+      "stars": 1
+    },
+    {
+      "id": 23,
+      "name": "Hotel Moers van der Valk",
+      "country": "Germany",
+      "stars": 2
+    },
+    {
+      "id": 24,
+      "name": "Hotel Stadt Moers",
+      "country": "Austria",
+      "stars": 4
+    },
+    {
+      "id": 25,
+      "name": "Vutz",
+      "country": "Swiss",
+      "stars": 2
+    },
+    {
+      "id": 26,
+      "name": "Wieser",
+      "country": "Germany",
+      "stars": 2
+    },
+    {
+      "id": 27,
+      "name": "Zimmer Niederrhein, Petra Kaul",
+      "country": "Swiss",
+      "stars": 1
+    },
+    {
+      "id": 28,
+      "name": "Zum feinen Informatiker",
+      "country": "Germany",
+      "stars": 2
+    },
+    {
+      "id": 29,
+      "name": "Brigitte Jung",
+      "country": "Germany",
+      "stars": 4
+    },
+    {
+      "id": 30,
+      "name": "Gerhard Klinkhardt",
+      "country": "Germany",
+      "stars": 3
+    },
+    {
+      "id": 31,
+      "name": "Helga Hawel",
+      "country": "Germany",
+      "stars": 1
+    },
+    {
+      "id": 32,
+      "name": "Schüttler",
+      "country": "Germany",
+      "stars": 3
+    },
+    {
+      "id": 33,
+      "name": "Susanne Rossmüller",
+      "country": "Swiss",
+      "stars": 4
+    },
+    {
+      "id": 34,
+      "name": "Wellings Romantik Hotel zur Linde",
+      "country": "Austria",
+      "stars": 4
+    },
+    {
+      "id": 35,
+      "name": "Reinhard und Gerlinde Müller",
+      "country": "Austria",
+      "stars": 3
+    },
+    {
+      "id": 36,
+      "name": "Schulz",
+      "country": "Austria",
+      "stars": 4
+    },
+    {
+      "id": 37,
+      "name": "Sigrid und Herbert Graf",
+      "country": "Swiss",
+      "stars": 4
+    },
+    {
+      "id": 38,
+      "name": "Schwarzer Adler",
+      "country": "Germany",
+      "stars": 1
+    },
+    {
+      "id": 39,
+      "name": "Seerose",
+      "country": "Germany",
+      "stars": 3
+    },
+    {
+      "id": 40,
+      "name": "Bürgerstuben",
+      "country": "Swiss",
+      "stars": 1
+    },
+    {
+      "id": 41,
+      "name": "Peter Kaiser",
+      "country": "Austria",
+      "stars": 1
+    },
+    {
+      "id": 42,
+      "name": "Weßels Gästewohnung „Klein-Holtmanns“",
+      "country": "Germany",
+      "stars": 2
+    }
+  ]
+}
