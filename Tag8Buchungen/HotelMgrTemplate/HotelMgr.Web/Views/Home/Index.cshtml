@@ -1,0 +1,46 @@
+﻿@model HotelMgr.Web.ViewModels.ListGuestViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Gästeübersicht</h1>
+
+<h3>Land</h3> 
+<form class="form-inline">
+    <label>@Html.DisplayNameFor(g=> g.Guests.FirstOrDefault().Country.CountryName)</label>
+    <select class="form-control" asp-for="Filter" asp-items="Model.Countries"></select>
+    <button class="btn btn-default" asp-all-route-filter="@Model.Filter">Filtern</button>
+</form>
+ 
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nachname
+            </th>
+            <th>
+                Vorname
+            </th>
+            <th>
+                Land
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var guest in Model.Guests)
+        {
+            <tr>
+                <td>
+                    @guest.LastName
+                </td>
+                <td>
+                    @guest.FirstName
+                </td>
+                <td>
+                    @guest.Country.CountryName
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

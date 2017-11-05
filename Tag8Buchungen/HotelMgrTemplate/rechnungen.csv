@@ -1,0 +1,58 @@
+Vorname;Nachname;Ankunft;Abreise;Rechnungsnummer;Rechnungsdatum;Buchungsnummer;Rechnungstext;Netto;Taxe;MwSt.;Brutto;Gezahlter Betrag;Ausstehend;Kunden Nr.;Adresse;PLZ;Ort;Land
+Engelbert;Berger;18.07.17;22.07.17;000001;25.07.17;BO000004;"Kategorie: Superior Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 18.07.2017, Abreisetag: 22.07.2017, 2 Erwachsene, 2 Kinder, Alter: 0;0, 4 Nächte, Endreinigung,Bettwäsche (pro Person),Handtücher (pro Person)";505,00;0,00;0,00;505,00;505,00;0,00;24;;;;Österreich
+;;;;;;;"Kategorie: Superior Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 18.07.2017, Abreisetag: 22.07.2017, 2 Erwachsene, 2 Kinder, Alter: 0;0, 4 Nächte, Endreinigung";445,00;0,00;0,00;445,00;;;;;;;
+;;;;;;;Bettwäsche (pro Person);36,00;0,00;0,00;36,00;;;;;;;
+;;;;;;;Handtücher (pro Person);24,00;0,00;0,00;24,00;;;;;;;
+Sandrine;Muellow;23.07.17;29.07.17;000002;01.08.17;BO000001;Category: Apartment with balcony , Catering: OverNight Only, From: 2017-07-23, To: 2017-07-29, 3 Adults, 6 Nights,Final cleaning (Apartment with balcony );525,00;0,00;0,00;525,00;525,00;0,00;1;;;;Belgien
+;;;;;;;Category: Apartment with balcony , Catering: OverNight Only, From: 2017-07-23, To: 2017-07-29, 3 Adults, 6 Nights;480,00;0,00;0,00;480,00;;;;;;;
+;;;;;;;Final cleaning (Apartment with balcony );45,00;0,00;0,00;45,00;;;;;;;
+Chris;Creg;28.07.17;02.08.17;;;BO000005;"Category: Superior Apartment with balcony, Catering: OverNight Only, From: 2017-07-28, To: 2017-08-02, 2 Adults, 4 Children, Age(s): 0;0;0;0, 5 Nights, Final cleaning,Bed-linen (per person),Towels (per person)";635,00;0,00;0,00;635,00;635,00;0,00;25;;;;Großbritannien und Nordirland
+;;;;;;;"Category: Superior Apartment with balcony, Catering: OverNight Only, From: 2017-07-28, To: 2017-08-02, 2 Adults, 4 Children, Age(s): 0;0;0;0, 5 Nights, Final cleaning";545,00;0,00;0,00;545,00;;;;;;;
+;;;;;;;Bed-linen (per person);54,00;0,00;0,00;54,00;;;;;;;
+;;;;;;;Towels (per person);36,00;0,00;0,00;36,00;;;;;;;
+Lee Man;Jan;29.07.17;31.07.17;000003;01.08.17;BO000002;Category: Apartment with balcony , Catering: OverNight Only, From: 2017-07-29, To: 2017-07-31, 2 Adults, 1 Child, Age(s): 1, 2 Nights,Final cleaning (Apartment with balcony ),Handtücher,Bettwäsche;235,00;0,00;0,00;235,00;235,00;0,00;2;;;;Tschechische Republik
+;;;;;;;Category: Apartment with balcony , Catering: OverNight Only, From: 2017-07-29, To: 2017-07-31, 2 Adults, 1 Child, Age(s): 1, 2 Nights;160,00;0,00;0,00;160,00;;;;;;;
+;;;;;;;Final cleaning (Apartment with balcony );45,00;0,00;0,00;45,00;;;;;;;
+;;;;;;;Handtücher;12,00;0,00;0,00;12,00;;;;;;;
+;;;;;;;Bettwäsche;18,00;0,00;0,00;18,00;;;;;;;
+Alexandra;Danmayer;31.07.17;10.08.17;;;BO000003;Kategorie: Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 31.07.2017, Abreisetag: 10.08.2017, 2 Erwachsene, 1 Kind, Alter: 0, 10 Nächte;672,57;0,00;87,43;760,00;760,00;0,00;3;;;;Deutschland
+;;;;;;;Kategorie: Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 31.07.2017, Abreisetag: 10.08.2017, 2 Erwachsene, 1 Kind, Alter: 0, 10 Nächte;672,57;0,00;87,43;760,00;;;;;;;
+Pavel;Srinvo;02.08.17;05.08.17;;;RES000032;"Category: Superior Apartment with balcony, From: 2017-08-02, To: 2017-08-05, 2 Adults, 3 Children, Age(s): 5;6;8, 3 Nights, Final cleaning";345,00;0,00;0,00;345,00;0,00;345,00;37;na chmelnici 1;77900;olomouc;Tschechische Republik
+;;;;;;;"Category: Superior Apartment with balcony, From: 2017-08-02, To: 2017-08-05, 2 Adults, 3 Children, Age(s): 5;6;8, 3 Nights, Final cleaning";345,00;0,00;0,00;345,00;;;;;;;
+Leonardo;Pani;12.08.17;18.08.17;;;BO000018;"Category: Superior Apartment with balcony, Catering: OverNight Only, From: 2017-08-12, To: 2017-08-18, 2 Adults, 3 Children, Age(s): 0;0;0, 6 Nights, Final cleaning,Bed-linen (per person),Towels (per person)";720,00;0,00;0,00;720,00;720,00;0,00;27;;;;Italien
+;;;;;;;"Category: Superior Apartment with balcony, Catering: OverNight Only, From: 2017-08-12, To: 2017-08-18, 2 Adults, 3 Children, Age(s): 0;0;0, 6 Nights, Final cleaning";645,00;0,00;0,00;645,00;;;;;;;
+;;;;;;;Bed-linen (per person);45,00;0,00;0,00;45,00;;;;;;;
+;;;;;;;Towels (per person);30,00;0,00;0,00;30,00;;;;;;;
+Teresa;Schweiger;12.08.17;19.08.17;;;BO000007;"Kategorie: Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 12.08.2017, Abreisetag: 19.08.2017, 1 Erwachsener, 3 Kinder, Alter: 0;0;0, 7 Nächte, Endreinigung,Bettwäsche (pro Person),Handtücher (pro Person)";665,00;0,00;0,00;665,00;665,00;0,00;5;;;;Deutschland
+;;;;;;;"Kategorie: Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 12.08.2017, Abreisetag: 19.08.2017, 1 Erwachsener, 3 Kinder, Alter: 0;0;0, 7 Nächte, Endreinigung";605,00;0,00;0,00;605,00;;;;;;;
+;;;;;;;Bettwäsche (pro Person);36,00;0,00;0,00;36,00;;;;;;;
+;;;;;;;Handtücher (pro Person);24,00;0,00;0,00;24,00;;;;;;;
+Henri;Walkin;19.08.17;26.08.17;;;BO000006;"Kategorie: Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 19.08.2017, Abreisetag: 26.08.2017, 2 Erwachsene, 3 Kinder, Alter: 0;0;0, 7 Nächte";560,00;0,00;0,00;560,00;560,00;0,00;7;;;;Belgien
+;;;;;;;"Kategorie: Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 19.08.2017, Abreisetag: 26.08.2017, 2 Erwachsene, 3 Kinder, Alter: 0;0;0, 7 Nächte";560,00;0,00;0,00;560,00;;;;;;;
+Christian;Forell;19.08.17;26.08.17;;;BO000019;Kategorie: Superior Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 19.08.2017, Abreisetag: 26.08.2017, 2 Erwachsene, 1 Kind, Alter: 13, 7 Nächte, Endreinigung,Bettwäsche (pro Person),Handtücher (pro Person);790,00;0,00;0,00;790,00;210,00;580,00;28;;;;Deutschland
+;;;;;;;Kategorie: Superior Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 19.08.2017, Abreisetag: 26.08.2017, 2 Erwachsene, 1 Kind, Alter: 13, 7 Nächte, Endreinigung;745,00;0,00;0,00;745,00;;;;;;;
+;;;;;;;Bettwäsche (pro Person);27,00;0,00;0,00;27,00;;;;;;;
+;;;;;;;Handtücher (pro Person);18,00;0,00;0,00;18,00;;;;;;;
+Krisztina;Hammer;26.08.17;28.08.17;;;BO000023;"Category: Apartment with balcony , Catering: OverNight Only, From: 2017-08-26, To: 2017-08-28, 2 Adults, 2 Children, Age(s): 1;9, 2 Nights, Final cleaning,Bed-linen";232,00;0,00;0,00;232,00;232,00;0,00;6;;;;Ungarn
+;;;;;;;"Category: Apartment with balcony , Catering: OverNight Only, From: 2017-08-26, To: 2017-08-28, 2 Adults, 2 Children, Age(s): 1;9, 2 Nights, Final cleaning";205,00;0,00;0,00;205,00;;;;;;;
+;;;;;;;Bed-linen;27,00;0,00;0,00;27,00;;;;;;;
+Christian;Werzi;28.08.17;31.08.17;;;BO000008;"Kategorie: Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 28.08.2017, Abreisetag: 31.08.2017, 4 Erwachsene, 3 Kinder, Alter: 9;10;13, 3 Nächte, Endreinigung,Bettwäsche (pro Person)";348,00;0,00;0,00;348,00;72,00;276,00;10;;;;Österreich
+;;;;;;;"Kategorie: Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 28.08.2017, Abreisetag: 31.08.2017, 4 Erwachsene, 3 Kinder, Alter: 9;10;13, 3 Nächte, Endreinigung";285,00;0,00;0,00;285,00;;;;;;;
+;;;;;;;Bettwäsche (pro Person);63,00;0,00;0,00;63,00;;;;;;;
+Bettina;Mager;01.09.17;05.09.17;;;BO000009;"Kategorie: Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 01.09.2017, Abreisetag: 05.09.2017, 2 Erwachsene, 2 Kinder, Alter: 0;0, 4 Nächte";300,00;0,00;0,00;300,00;90,00;210,00;11;;;;Deutschland
+;;;;;;;"Kategorie: Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 01.09.2017, Abreisetag: 05.09.2017, 2 Erwachsene, 2 Kinder, Alter: 0;0, 4 Nächte";300,00;0,00;0,00;300,00;;;;;;;
+Fatih;Graco;03.09.17;07.09.17;;;BO000025;"Kategorie: Superior Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 03.09.2017, Abreisetag: 07.09.2017, 2 Erwachsene, 2 Kinder, Alter: 2;1, 4 Nächte, Endreinigung,Bettwäsche (pro Person),Handtücher (pro Person)";505,00;0,00;0,00;505,00;120,00;385,00;29;;;;Österreich
+;;;;;;;"Kategorie: Superior Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 03.09.2017, Abreisetag: 07.09.2017, 2 Erwachsene, 2 Kinder, Alter: 2;1, 4 Nächte, Endreinigung";445,00;0,00;0,00;445,00;;;;;;;
+;;;;;;;Bettwäsche (pro Person);36,00;0,00;0,00;36,00;;;;;;;
+;;;;;;;Handtücher (pro Person);24,00;0,00;0,00;24,00;;;;;;;
+Gabriela;Lesguan;05.09.17;08.09.17;;;BO000022;Category: Apartment with balcony , Catering: OverNight Only, From: 2017-09-05, To: 2017-09-08, 4 Adults, 3 Nights, Final cleaning,Bed-linen (per person),Towels (per person);345,00;0,00;0,00;345,00;345,00;0,00;12;;;;Rumänien
+;;;;;;;Category: Apartment with balcony , Catering: OverNight Only, From: 2017-09-05, To: 2017-09-08, 4 Adults, 3 Nights, Final cleaning;285,00;0,00;0,00;285,00;;;;;;;
+;;;;;;;Bed-linen (per person);36,00;0,00;0,00;36,00;;;;;;;
+;;;;;;;Towels (per person);24,00;0,00;0,00;24,00;;;;;;;
+Gabriella;Zalra;09.09.17;12.09.17;;;BO000010;Kategorie: Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 09.09.2017, Abreisetag: 12.09.2017, 2 Erwachsene, 1 Kind, Alter: 0, 3 Nächte;200,00;0,00;0,00;200,00;60,00;140,00;13;;;;Ungarn
+;;;;;;;Kategorie: Apartment mit Balkon, Verpflegung: ohne Verpflegung, Anreisetag: 09.09.2017, Abreisetag: 12.09.2017, 2 Erwachsene, 1 Kind, Alter: 0, 3 Nächte;200,00;0,00;0,00;200,00;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+Steuersatz;Netto;MwSt.;Brutto;;;;;;;;;;;;;;;
+0%;8.287,57;87,43;8.375,00;;;;;;;;;;;;;;;
+;8.287,57;87,43;8.375,00;;;;;;;;;;;;;;;

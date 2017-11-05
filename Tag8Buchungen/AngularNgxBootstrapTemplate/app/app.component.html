@@ -1,0 +1,45 @@
+<h1>Verfügbare Räume</h1>
+<div>
+    <table class="table">
+        <tr>
+            <th>
+                RaumNr.
+            </th>
+            <th>
+                Raumbezeichnung
+            </th>
+        </tr>
+        <template ngFor let-room [ngForOf]="rooms">
+            <tr (click)="selectRoom(room)" [style.backgroundColor]="selectedRoom?.roomNumber==room.roomNumber?'grey':''">
+                <td>
+                    {{room.roomNumber}}
+                </td>
+                <td>
+                    {{room.roomName}}
+                </td>
+            </tr>
+        </template>
+    </table>
+</div>
+
+<div>
+    <h2>{{totalGuests}} Buchungen zu Raum Nr.{{selectedRoom?.roomNumber}}</h2>
+    <table class="table">
+        <thead>
+            <tr>
+            <th>Von</th>
+            <th>Bis</th>
+            <th>Name</th>
+            <th>Anzahl Personen</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let res of resRooms">
+            <td>{{res.from | date:"dd.MM.yyyy"}}</td>
+            <td>{{res.to | date:"dd.MM.yyyy"}}</td>
+            <td>{{res.guest.firstName}} {{res.guest.lastName}}</td>
+            <td>{{res.numOfAdults+res.numOfChilds}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
