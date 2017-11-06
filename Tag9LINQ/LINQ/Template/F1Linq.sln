@@ -1,0 +1,34 @@
+Microsoft Visual Studio Solution File, Format Version 14.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F1Logic", "F1Logic\F1Logic.csproj", "{B2655DD4-F471-43DC-8EA5-A93B5174D675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{AF0F5FEF-CCA6-4CD0-98E9-AFC700AEEF53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F1LogicTests", "F1LogicTests\F1LogicTests.csproj", "{67802385-0DBE-49C3-92A0-5C000AB76D13}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = F1Logic.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2655DD4-F471-43DC-8EA5-A93B5174D675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2655DD4-F471-43DC-8EA5-A93B5174D675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2655DD4-F471-43DC-8EA5-A93B5174D675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2655DD4-F471-43DC-8EA5-A93B5174D675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0F5FEF-CCA6-4CD0-98E9-AFC700AEEF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0F5FEF-CCA6-4CD0-98E9-AFC700AEEF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0F5FEF-CCA6-4CD0-98E9-AFC700AEEF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0F5FEF-CCA6-4CD0-98E9-AFC700AEEF53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67802385-0DBE-49C3-92A0-5C000AB76D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67802385-0DBE-49C3-92A0-5C000AB76D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67802385-0DBE-49C3-92A0-5C000AB76D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67802385-0DBE-49C3-92A0-5C000AB76D13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
