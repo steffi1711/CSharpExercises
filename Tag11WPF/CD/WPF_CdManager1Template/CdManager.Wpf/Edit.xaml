@@ -1,0 +1,28 @@
+﻿<Window x:Class="CdManager.Wpf.Edit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CdManager.Wpf"
+        mc:Ignorable="d"
+        Title="Edit" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock Name="tbCd"></TextBlock>
+        <DataGrid Name="dgTracks" Grid.Row="1" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Path=Title, UpdateSourceTrigger=PropertyChanged}" MinWidth="175" Header="Title"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding Path=Year, UpdateSourceTrigger=PropertyChanged}" MinWidth="175" Header="Year"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding Path=SongWriter, UpdateSourceTrigger=PropertyChanged}" MinWidth="175" Header="SongWriter"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding Path=LeadVocals, UpdateSourceTrigger=PropertyChanged}" MinWidth="175" Header="LeadVocals"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <UniformGrid>
+            <Button Margin="10" Height="30" Name="btnClose">Close</Button>
+        </UniformGrid>
+    </Grid>
+</Window>
